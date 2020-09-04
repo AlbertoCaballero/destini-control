@@ -1,5 +1,6 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Disclaimer
 
+This is a completed version of the Destini app intended as a learning resource for The App Brewery's Complete Flutter Development Bootcamp.
 
 # Destini 🤔
 
